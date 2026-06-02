@@ -1,21 +1,97 @@
-<h1 align="center">Hi 👋, I'm Ramadan Lotfy</h1> <h3 align="center">Java Developer | Specializing in Spring & Microservices | Golang & Kafka Enthusiast | DevOps Practitioner | Kubernetes & Docker Advocate</h3> <p align="center"> <img align="center" alt="Coding" width="400" src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3o3zoqb5ysrcuujnyoz9.gif"> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=ramadan-lotfy&label=Profile%20views&color=0e75b6&style=flat" alt="ramadan-lotfy" /> <img src="https://img.shields.io/github/followers/ramadan-lotfy?label=Followers&style=social" alt="ramadan-lotfy" /> <img src="https://img.shields.io/github/stars/ramadan-lotfy?label=Stars&style=social" alt="ramadan-lotfy" /> </p>
+<div align="center">
 
-🌱 Currently Learning: Expanding my skills in DevOps with a focus on CI/CD, Infrastructure as Code (IaC), and cloud-native technologies.
+# Ramadan Lotfy
 
-👨‍💻 My Projects: You can explore all of my work on GitHub.
+### Java Developer · Spring & Microservices · Golang · Kafka · DevOps · Kubernetes
 
-📝 Writing: I regularly share insights on software development and DevOps on my Substack.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramadan-lotfy-1056671b6)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/ramadan-lotfy)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@ramadanlotfy)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramadanlotfy909@gmail.com)
 
-💬 Ask Me About: Java, Golang, SQL, Spring Boot, DevOps, and Kubernetes.
+![Profile views](https://komarev.com/ghpvc/?username=ramadan-lotfy&color=0e75b6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/ramadan-lotfy?style=flat-square&color=0e75b6)
 
-📫 Reach Out: Feel free to contact me at ramadanlotfy909@gmail.com.
+</div>
 
-📄 My Experience: Learn more about my professional journey here.
+---
 
-⚡ Fun Fact: I’m a problem-solver who loves tackling challenges with a dash of humor!
+## About Me
 
-<h3 align="left">Connect with Me</h3> <p align="left"> <a href="https://linkedin.com/in/ramadan-lotfy-1056671b6" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramadan-lotfy" height="30" width="40" /> </a> <a href="https://www.leetcode.com/ramadan-lotfy" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramadan-lotfy" height="30" width="40" /> </a> <a href="https://substack.com/@ramadanlotfy?utm_source=user-menu" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/substack.svg" alt="ramadanlotfy" height="30" width="40" /> </a> <a href="mailto:ramadanlotfy909@gmail.com" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ramadanlotfy" height="30" width="40" /> </a> </p>
+I'm a **Java Developer** based in Egypt, focused on building scalable, production-ready backend systems using **Spring Boot** and **Microservices** architecture. I'm passionate about distributed systems, event-driven design with **Apache Kafka**, and streamlining delivery pipelines through **DevOps** practices.
 
-<h3 align="left">Languages and Tools</h3> <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" /> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" /> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" /> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" /> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" /> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a> </p>
+- 🔭 Currently deepening my expertise in **CI/CD**, **Infrastructure as Code (IaC)**, and **cloud-native** technologies
+- 🛠 I write clean, maintainable Java & Go code with a strong emphasis on system design
+- ✍️ I share technical insights on [Substack](https://substack.com/@ramadanlotfy) covering Java, microservices, and DevOps
+- 🧩 I enjoy solving algorithmic challenges on [LeetCode](https://www.leetcode.com/ramadan-lotfy)
+- 💬 Ask me about: **Java · Spring Boot · Golang · Kafka · Kubernetes · Docker · SQL**
+- 📫 Reach me at: **ramadanlotfy909@gmail.com**
 
-<h3 align="left">GitHub Stats</h3> <p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramadan-lotfy&show_icons=true&locale=en&layout=compact" alt="ramadan-lotfy" /> </p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramadan-lotfy&show_icons=true&locale=en" alt="ramadan-lotfy" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramadan-lotfy&" alt="ramadan-lotfy" /></p>
+---
+
+## Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks & Platforms
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Databases & Observability
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ramadan-lotfy&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadan-lotfy&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramadan-lotfy&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+## Featured Projects
+
+> *Pinning repositories in GitHub settings will display them here automatically.*
+> Below is a placeholder — replace with your actual repos.
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [heap-patterns-java](https://github.com/Ramadan-Lotfy/heap-patterns-java) | Heap data structure patterns and problem solutions | Java |
+| *(more coming soon)* | | |
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
