@@ -109,19 +109,16 @@ Heap data structure patterns and LeetCode-style problem solutions — part of an
 
 ---
 
-## GitHub Stats
-
+GitHub Stats
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ramadan-lotfy&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadan-lotfy&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ramadan-lotfy&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadan-lotfy&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" />
 </div>
-
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ramadan-lotfy&theme=github-dark-blue&hide_border=true)
-
+<img src="https://streak-stats.demolab.com/?user=ramadan-lotfy&theme=github-dark-blue&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+</div>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ramadan-lotfy&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
