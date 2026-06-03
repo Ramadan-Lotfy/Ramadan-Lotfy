@@ -2,7 +2,7 @@
 
 # Ramadan Lotfy
 
-### Java Developer · Spring & Microservices · Golang · Kafka · DevOps · Kubernetes
+### Java Developer · Spring Boot & Microservices · Golang · Kafka · AWS · Kubernetes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramadan-lotfy-1056671b6)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/ramadan-lotfy)
@@ -18,14 +18,15 @@
 
 ## About Me
 
-I'm a **Java Developer** based in Egypt, focused on building scalable, production-ready backend systems using **Spring Boot** and **Microservices** architecture. I'm passionate about distributed systems, event-driven design with **Apache Kafka**, and streamlining delivery pipelines through **DevOps** practices.
+Java Developer with **1.5+ years of production experience** building and maintaining microservices at scale. At Opream, I engineered 10+ Spring Boot services, improved query performance by **40%**, and cut deployment time by **50%** through CI/CD automation and Kubernetes-based container orchestration.
 
-- 🔭 Currently deepening my expertise in **CI/CD**, **Infrastructure as Code (IaC)**, and **cloud-native** technologies
-- 🛠 I write clean, maintainable Java & Go code with a strong emphasis on system design
-- ✍️ I share technical insights on [Substack](https://substack.com/@ramadanlotfy) covering Java, microservices, and DevOps
-- 🧩 I enjoy solving algorithmic challenges on [LeetCode](https://www.leetcode.com/ramadan-lotfy)
-- 💬 Ask me about: **Java · Spring Boot · Golang · Kafka · Kubernetes · Docker · SQL**
-- 📫 Reach me at: **ramadanlotfy909@gmail.com**
+- 🏢 Previously @ **Opream for Software Development** — Java Developer (Jul 2023 – Sep 2024)
+- 🎓 **B.Eng. Computer Science & Engineering** — Modern Academy in Maadi, Cairo
+- 🔭 Currently expanding into **CI/CD**, **IaC**, and cloud-native architecture
+- ✍️ Writing about Java, microservices & DevOps on [Substack](https://substack.com/@ramadanlotfy)
+- 🧩 Sharpening problem-solving on [LeetCode](https://www.leetcode.com/ramadan-lotfy)
+- 💬 Ask me about: **Java · Spring Boot · Kafka · Kubernetes · Docker · AWS · SQL**
+- 📫 **ramadanlotfy909@gmail.com**
 
 ---
 
@@ -34,18 +35,23 @@ I'm a **Java Developer** based in Egypt, focused on building scalable, productio
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frameworks & Platforms
+### Frameworks & Security
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
 
-### DevOps & Infrastructure
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -58,6 +64,48 @@ I'm a **Java Developer** based in Egypt, focused on building scalable, productio
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🎓 EduAI Management System
+> `Java` `Spring Boot` `Spring Security` `MongoDB` `Docker` `JWT`
+
+Full-featured educational platform serving **5,000+ students** and **200+ instructors** across multiple institutions.
+- Role-based access control (RBAC) with JWT authentication and secure multi-tenant architecture
+- Automated attendance tracking, grade calculation, and report generation — reducing admin workload by **40%**
+- Real-time course enrollment, exam scheduling, and grade tracking with full API documentation
+
+---
+
+### 📚 Library Management System
+> `Java` `Spring Boot` `PostgreSQL` `Thymeleaf`
+
+Automated library operations system managing **10,000+ books** and **500+ active users**.
+- Real-time inventory tracking with catalog browsing, borrowing, renewal, and return flows
+- Reduced processing time by **60%** and improved patron experience ratings by **45%**
+
+---
+
+### 🗂 Heap Patterns — Java DSA
+> `Java` · [View Repository](https://github.com/Ramadan-Lotfy/heap-patterns-java)
+
+Heap data structure patterns and LeetCode-style problem solutions — part of an ongoing DSA practice series.
+
+---
+
+## Certifications
+
+| Certificate | Provider |
+|-------------|----------|
+| Java Master Class | Amigoscode (Nelson Djalo) |
+| Certified Kubernetes Application Developer (CKAD) | Code With Nanna |
+| Ultimate Design Pattern Series | Code with Mosh |
+| Ultimate Data Structures & Algorithms | Code with Mosh |
+| Master Microservices with Spring Boot, Spring Cloud, Docker, Kubernetes | Eazybytes (Madan Reddy) |
 
 ---
 
@@ -72,21 +120,9 @@ I'm a **Java Developer** based in Egypt, focused on building scalable, productio
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramadan-lotfy&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ramadan-lotfy&theme=github-dark-blue&hide_border=true)
 
 </div>
-
----
-
-## Featured Projects
-
-> *Pinning repositories in GitHub settings will display them here automatically.*
-> Below is a placeholder — replace with your actual repos.
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [heap-patterns-java](https://github.com/Ramadan-Lotfy/heap-patterns-java) | Heap data structure patterns and problem solutions | Java |
-| *(more coming soon)* | | |
 
 ---
 
