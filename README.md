@@ -106,10 +106,15 @@ Heap data structure patterns and LeetCode-style problem solutions — part of an
 | Ultimate Design Pattern Series | Code with Mosh |
 | Ultimate Data Structures & Algorithms | Code with Mosh |
 | Master Microservices with Spring Boot, Spring Cloud, Docker, Kubernetes | Eazybytes (Madan Reddy) |
+| Learn SQL | Boot.dev |
+
+<a href="https://www.boot.dev/certificates/47e68678-ee18-4c25-87c1-5b485aedf457">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/47e68678-ee18-4c25-87c1-5b485aedf457.jpeg?v=1794372738" alt="Boot.dev Learn SQL certificate" width="450" />
+</a>
 
 ---
 
-GitHub Stats
+## GitHub Stats
 <div align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=ramadan-lotfy&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadan-lotfy&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" />
