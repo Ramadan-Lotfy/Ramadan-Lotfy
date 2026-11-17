@@ -108,6 +108,7 @@ Heap data structure patterns and LeetCode-style problem solutions — part of an
 | Master Microservices with Spring Boot, Spring Cloud, Docker, Kubernetes | Eazybytes (Madan Reddy) |
 | Learn SQL | Boot.dev |
 | Learn Linux | Boot.dev |
+| Learn Go | Boot.dev |
 
 <a href="https://www.boot.dev/certificates/47e68678-ee18-4c25-87c1-5b485aedf457">
   <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/47e68678-ee18-4c25-87c1-5b485aedf457.jpeg?v=1794372738" alt="Boot.dev Learn SQL certificate" width="450" />
@@ -115,6 +116,10 @@ Heap data structure patterns and LeetCode-style problem solutions — part of an
 
 <a href="https://www.boot.dev/certificates/87e4ac24-7e75-4f63-89af-89973618c98c">
   <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/87e4ac24-7e75-4f63-89af-89973618c98c.jpeg?v=1794604958" alt="Boot.dev Learn Linux certificate" width="450" />
+</a>
+
+<a href="https://www.boot.dev/certificates/25ee91fb-7b2b-43a3-9d72-c686053d8281">
+  <img src="https://api.boot.dev/v1/static/certificate/25ee91fb-7b2b-43a3-9d72-c686053d8281" alt="Boot.dev Learn Go certificate" width="450" />
 </a>
 ---
 
