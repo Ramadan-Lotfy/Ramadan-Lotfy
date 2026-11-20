@@ -128,6 +128,8 @@ Heap data structure patterns and LeetCode-style problem solutions — part of an
   <img src="https://api.boot.dev/v1/static/certificate/e4115e13-f9e1-4808-b05a-6c00e60f65d8" alt="Boot.dev Build a Blog Aggregator in Go certificate" width="450" />
 </a>
 
+---
+
 ## GitHub Stats
 
 <div align="center">
