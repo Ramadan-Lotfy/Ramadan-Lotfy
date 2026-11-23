@@ -111,6 +111,8 @@ Heap data structure patterns and LeetCode-style problem solutions — part of an
 | Learn Go | Boot.dev |
 | Build a Blog Aggregator in Go | Boot.dev |
 | Learn Git | Boot.dev |
+| Learn Git 2| Boot.dev |
+
 
 
 
@@ -132,6 +134,10 @@ Heap data structure patterns and LeetCode-style problem solutions — part of an
 
 <a href="https://www.boot.dev/certificates/c809be05-0a22-4fc1-8357-e0901f376bff">
   <img src="https://api.boot.dev/v1/static/certificate/c809be05-0a22-4fc1-8357-e0901f376bff" alt="Boot.dev Learn Git certificate" width="450" />
+</a>
+
+<a href="https://www.boot.dev/certificates/9e906b1d-85e5-4c2d-bea2-b33810c6248a">
+  <img src="https://api.boot.dev/v1/static/certificate/9e906b1d-85e5-4c2d-bea2-b33810c6248a" alt="Boot.dev Learn Git 2 certificate" width="450" />
 </a>
 
 ---
