@@ -113,6 +113,8 @@ Heap data structure patterns and LeetCode-style problem solutions — part of an
 | Learn Git | Boot.dev |
 | Learn Git 2| Boot.dev |
 | Learn Docker| Boot.dev |
+| Introduction to Python Course | Boot.dev |
+
 
 
 
@@ -144,6 +146,10 @@ Heap data structure patterns and LeetCode-style problem solutions — part of an
 
 <a href="https://www.boot.dev/certificates/f00083bc-198d-485a-b625-06493daf10f7">
   <img src="https://api.boot.dev/v1/static/certificate/f00083bc-198d-485a-b625-06493daf10f7" alt="Boot.dev Learn Docker certificate" width="450" />
+</a>
+
+<a href="https://www.boot.dev/certificates/cbd22e83-93e0-429f-ad3a-6a2b733bbc5e">
+  <img src="https://api.boot.dev/v1/static/certificate/cbd22e83-93e0-429f-ad3a-6a2b733bbc5e" alt="Boot.dev Introduction to Python Course certificate" width="450" />
 </a>
 
 ---
